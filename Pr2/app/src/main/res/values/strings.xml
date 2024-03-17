@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="declarative">Declarative</string>
+    <string name="programmatically">Programmatically</string>
+    <string name="SecondName">SecondName</string>
+    <string name="FirstName"> FirstName</string>
+    <string name="Age"> Age</string>
+</resources>

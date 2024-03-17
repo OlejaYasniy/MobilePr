@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Мое приложение</string>
+    <string name="declarative"> Декларативно</string>
+    <string name="programmatically"> Программно</string>
+    <string name="SecondName"> Фамилия</string>
+    <string name="FirstName"> Имя</string>
+    <string name="Age"> Возраст</string>
+
+</resources>
