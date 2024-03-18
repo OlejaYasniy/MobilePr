@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="forward_button">20sp</dimen>
+    <dimen name="back_button">20sp</dimen>
+    <dimen name="text_view">20sp</dimen>
+</resources>
