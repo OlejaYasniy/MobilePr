@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application4</string>
+    <string name="next">Next</string>
+    <string name="name">Name</string>
+    <string name="second_name">Second name</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_second_name">Enter your second name</string>
+    <string name="subject">Enter your subject</string>
+    <string name="info">Enter information</string>
+    <string name="ok">OK</string>
+    <string name="day">Day</string>
+    <string name="time">Time</string>
+    <string name="comments">Comments</string>
+</resources>
