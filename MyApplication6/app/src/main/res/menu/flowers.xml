@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/krasivie"
+            android:title="Красивые" />
+        <item
+            android:id="@+id/komnatnie"
+            android:title="Комнатные" />
+        <item
+            android:id="@+id/polevie"
+            android:title="Полевые" />
+
+        <item
+            android:id="@+id/NextAct"
+            android:title="Следующая Активность" />
+</menu>

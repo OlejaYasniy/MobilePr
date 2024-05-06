@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string-array name="products">
+        <item>"Овощи, фрукты, орехи"</item>
+        <item>"Молоко, сыр, яйца"</item>
+        <item>"Хлеб и выпечка"</item>
+        <item>"Мясо, птица"</item>
+        <item>"Рыба, морепродукты"</item>
+    </string-array>
+
+    <string-array name="VFN">
+        <item>"Яблоко"</item>
+        <item>"Банан"</item>
+        <item>"Лимон"</item>
+        <item>"Апельсин"</item>
+        <item>"Картофель"</item>
+        <item>"Помидор"</item>
+        <item>"Перец"</item>
+        <item>"Морковь"</item>
+        <item>"Огурец"</item>
+        <item>"Арахис"</item>
+        <item>"Каштан"</item>
+        <item>"Авокадо"</item>
+        <item>"Личи"</item>
+        <item>"Помело"</item>
+        <item>"Киви"</item>
+        <item>"Папайя"</item>
+        <item>"Инжир"</item>
+        <item>"Капуста"</item>
+        <item>"Горох"</item>
+        <item>"Фасоль"</item>
+    </string-array>
+
+    <string-array name="BP">
+        <item>"Белый Хлеб"</item>
+        <item>"Бородинский хлеб"</item>
+        <item>"Ржаной хлеб"</item>
+        <item>"Булочка"</item>
+        <item>"Круасан"</item>
+        <item>"Пончик"</item>
+    </string-array>
+
+    <string-array name="FS">
+        <item>"Краб"</item>
+        <item>"Креветки"</item>
+        <item>"Сельдь"</item>
+        <item>"Селедка"</item>
+        <item>"Семга"</item>
+        <item>"Скумбрия"</item>
+    </string-array>
+
+    <string-array name="MCE">
+        <item>"Молоко"</item>
+        <item>"Яйца"</item>
+        <item>"Кефир"</item>
+        <item>"Сыр"</item>
+        <item>"Ряженка"</item>
+        <item>"Йогурт"</item>
+    </string-array>
+
+    <string-array name="MP">
+        <item>"Курица"</item>
+        <item>"Говядина"</item>
+        <item>"Баранина"</item>
+        <item>"Индейка"</item>
+        <item>"Свинина"</item>
+    </string-array>
+
+    
+</resources>
